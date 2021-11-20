@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ja-laporte
 - 👀 I’m interested in becoming a software engineer!
-- 🌱 I’m currently learning Ruby @ Launch School
+- 🌱 I’m currently learning
 
 
 
